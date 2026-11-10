@@ -575,6 +575,10 @@
         "whois.nic.at",
         "nothing found"
     ],
+	"co.com": [
+        "whois.co.com",
+        "NOT FOUND"
+    ],
     "co.il": [
         "whois.isoc.org.il",
         "No data was found"
@@ -2574,6 +2578,11 @@
     "org.sg": [
         "whois.nic.net.sg",
         "Domain Not Found"
+    ],
+    "org.sk": [
+        "whois.sk-nic.sk",
+        "Not found",
+        "NEGATION:The Domain cannot be registered"
     ],
     "org.tr": [
         "whois.metu.edu.tr",
